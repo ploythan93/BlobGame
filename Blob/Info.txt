@@ -1,0 +1,1 @@
+Open it from Assets->Scenes->Menu
